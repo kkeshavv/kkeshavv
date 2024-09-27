@@ -41,13 +41,11 @@
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <!-- Gmail Badge -->
-<a href="mailto:keshav91900@gmail.com">
-  <img src="https://img.shields.io/badge/-keshav91900-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+<a href="mailto: keshav91900@gmail.com" target="_blank">
+ <img src="https://img.shields.io/badge/-keshav91900-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keshav91900@gmail.com"/>
 </a>
-
-<!-- LinkedIn Badge -->
-<a href="https://www.linkedin.com/in/keshav91900/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Keshav Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/keshav91900/" target="_blank">
+ <img src="https://img.shields.io/badge/-keshav kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
 
 <!--  <a href="https://twitter.com/ritikhere307">
