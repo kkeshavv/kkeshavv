@@ -7,9 +7,9 @@
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/kkeshavv/kkeshavv"/> 
-  <img src="https://badges.pufler.dev/years/kkeshavv"/> 
+ <!-- <img src="https://badges.pufler.dev/years/kkeshavv"/> -->
 <img src="https://badges.pufler.dev/repos/kkeshavv"/>
- <!-- <img src="https://badges.pufler.dev/commits/monthly/kkeshavv" />  -->
+  <img src="https://badges.pufler.dev/commits/yearly/kkeshavv" />  
 
 </p>
 
