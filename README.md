@@ -45,7 +45,7 @@
  <img src="https://img.shields.io/badge/-keshav91900-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keshav91900@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/keshav91900/" target="_blank">
- <img src="https://img.shields.io/badge/-ritikrawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshav91900/"/>
+ <img src="https://img.shields.io/badge/-keshav kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshav91900/"/>
 
 </a>
 
