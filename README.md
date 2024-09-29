@@ -5,7 +5,16 @@
 </p align="center">
 <img src="https://github.com/kkeshavv/kkeshavv/blob/main/git_wall_finalllllllllllllllllllllllllllllllllllllllllllllllllllllllll.png" />
 <p align="center">
- 
+
+
+
+ <img src="https://img.shields.io/badge/Visits-123-blue" alt="Visits Badge" />
+<img src="https://img.shields.io/badge/Repositories-5-green" alt="Repositories Badge" />
+<img src="https://img.shields.io/badge/Commits-200-yellow" alt="Commits Badge" />
+
+
+
+
  <img src="https://badges.pufler.dev/visits/kkeshavv/kkeshavv"/> 
  <!-- <img src="https://badges.pufler.dev/years/kkeshavv"/> -->
 <img src="https://badges.pufler.dev/repos/kkeshavv"/>
@@ -69,7 +78,8 @@
 <br>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=kkeshavv&show_icons=true&theme=radical&line_height=27">
+<!--   <img  src = "https://github-readme-stats.vercel.app/api?username=kkeshavv&show_icons=true&theme=radical&line_height=27"> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kkeshavv&show_icons=true&theme=radical" alt="GitHub Stats&line_height=27" />
 <!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kkeshavv&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"> -->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkeshavv&layout=donut&theme=radical" alt="Most Used Languages" />
 
