@@ -83,7 +83,7 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=kkeshavv&theme=redical">
 
-<img src=" https://github-readme-stats.vercel.app/api/top-langs/?username=kkeshavv&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkeshavv&layout=donut&theme=radical" alt="Most Used Languages" />
 
 </p> 
 <hr>
