@@ -66,7 +66,7 @@
   <img width="1500" height="100" src="https://github-profile-trophy.vercel.app/?username=harsharma30&theme=darkhub"/>
     </p>
   <!--code by harsharma30-->
-  <br><br>
+
 
 
 <!--  <a href="https://twitter.com/ritikhere307">
