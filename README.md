@@ -45,21 +45,10 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-<p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<!-- Gmail Badge -->
-<a href="mailto: keshav91900@gmail.com" target="_blank">
- <img src="https://img.shields.io/badge/-keshav91900-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keshav91900@gmail.com"/>
-</a>
-<a href="https://www.linkedin.com/in/keshav91900/" target="_blank">
- <img src="https://img.shields.io/badge/-keshav kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshav91900/"/>
-
-</a>
 
 <br><br><br>
-<h1 align="center">Connect with me:</h1>
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <p align="center">
     <a href="mailto:keshav91900@gmail.com" target="blank">
         <img align="center" src="https://github.com/kkeshavv/kkeshavv/blob/main/gmail.gif" alt="Gmail Logo" height="100" width="100" />
