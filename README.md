@@ -9,9 +9,13 @@
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
-  <div align="center">
-    [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,discord,figma,github,html,java,js,kali,linkedin,linux,notion,r,stackoverflow,vscode,windows,apple&perline=15)](https://skillicons.dev)
-  </div>
+ <div align="center"
+
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,discord,figma,github,html,java,js,kali,linkedin,linux,notion,r,stackoverflow,vscode,windows,apple&perline=15)](https://skillicons.dev)
+
+</div>
+
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
