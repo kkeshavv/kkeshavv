@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kkeshavv/kkeshavv/blob/main/git_wall_finalllllllllllllllllllllllllllllllllllllllllllllllllllllllll.png" />
+  <img src="https://github.com/kkeshavv/kkeshavv/blob/main/assests/banner.png" />
 </p>
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
@@ -10,7 +10,7 @@
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img src="https://github.com/kkeshavv/kkeshavv/blob/main/assests/laptop.gif" width="50"></h2>
 <p align="center">
  <div align="center"
    
@@ -28,7 +28,7 @@
     <img align="center" src="https://github.com/kkeshavv/kkeshavv/blob/main/gmail.gif" alt="Gmail Logo" height="100" width="100" />
   </a>
   <a href="https://www.linkedin.com/in/keshav91900/" target="blank">
-    <img align="center" src="https://github.com/harsharma30/harsharma30/blob/47fa023ffdcedd546a04e7e91af60bd177af4b88/icons/app/gif/Linkedin.gif" alt="LinkedIn Logo" height="100" width="100" />
+    <img align="center" src="https://github.com/kkeshavv/kkeshavv/blob/main/assests/Linkedin.gif" alt="LinkedIn Logo" height="100" width="100" />
   </a>
 </p>
 
