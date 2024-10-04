@@ -20,12 +20,12 @@
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 
+<div align="center"
 
 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,discord,figma,github,html,java,js,kali,linkedin,linux,notion,r,stackoverflow,vscode,windows,apple&perline=15)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=apple,c,cpp,css,discord,figma,github,html,java,js,kali,linkedin,linux,notion,r,stackoverflow,vscode,windows&perline=15)](https://skillicons.dev)
-
-
+</div>
 
 
 
