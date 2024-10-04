@@ -47,7 +47,7 @@
 
 
 
-<br><br><br>
+<br>
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <p align="center">
     <a href="mailto:keshav91900@gmail.com" target="blank">
