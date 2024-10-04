@@ -2,21 +2,25 @@
   <img src="https://github.com/kkeshavv/kkeshavv/blob/main/git_wall_finalllllllllllllllllllllllllllllllllllllllllllllllllllllllll.png" />
 </p>
 
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 <br>
 <p align="center">
   I'm a 3rd year student pursuing Bachelors in Computer Science 🎓 from Lovely Professional University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 </p>
 
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <p align="center">
  <div align="center"
-
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,discord,figma,github,html,java,js,kali,linkedin,linux,notion,r,stackoverflow,vscode,windows,apple&perline=15)](https://skillicons.dev)
+   
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,discord,figma,github,html,java,js,kali,linkedin,linux,notion,r,stackoverflow,vscode,windows,apple&perline=13)](https://skillicons.dev)
 
 </div>
 
 </p>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <p align="center">
@@ -28,10 +32,14 @@
   </a>
 </p>
 
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
+
 <h1 align="center">Trophies:</h1>
 <p align="center">
   <img width="1500" height="100" src="https://github-profile-trophy.vercel.app/?username=kkeshav&theme=darkhub"/>
 </p>
+
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
 <h2 align="center">My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 <br>
