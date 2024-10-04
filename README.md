@@ -44,7 +44,6 @@
 <h2 align="center">My Github Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h2>
 <br>
 <div align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=kkeshavv&theme=dark&hide_border=true&border_radius=5&card_width=800">
 
  <img width="800" height="220" src="https://streak-stats.demolab.com?user=kkeshavv&theme=highcontrast&hide_border=true&border_radius=5&card_width=800&card_height=220" alt="GitHub Streak" />
   
