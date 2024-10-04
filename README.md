@@ -58,10 +58,11 @@
 
 </a>
 
+
 <br><br><br>
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-    <a href="mailto:keshav91900@gmail.com" target="blank"><img align="center" src="https://github.com/harsharma30/harsharma30/blob/47fa023ffdcedd546a04e7e91af60bd177af4b88/icons/app/gif/Gmail.gif" alt="keshav91900@gmail.com" height="100" width="100" /></a>
+    <a href="mailto:keshav91900@gmail.com" target="blank"><img align="center" src="<img src="https://github.com/kkeshavv/kkeshavv/blob/gmail.gif" />" alt="keshav91900@gmail.com" height="100" width="100" /></a>
     <a href="https://www.linkedin.com/in/keshav91900/" target="blank"><img align="center" src="https://github.com/harsharma30/harsharma30/blob/47fa023ffdcedd546a04e7e91af60bd177af4b88/icons/app/gif/Linkedin.gif" alt="keshav91900" height="100" width="100" /></a>
 </p>
 
