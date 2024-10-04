@@ -98,7 +98,7 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=kkeshavv&theme=dark&hide_border=true&border_radius=5&card_width=800"></p>
 <p align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkeshavv&theme=2077)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkeshavv&theme=codeSTACKr)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkeshavv&theme=chartreuse_dark)
