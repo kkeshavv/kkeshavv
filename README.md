@@ -23,7 +23,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=apple,c,cpp,css,discord,figma,github,html,java,js,kali,linkedin,linux,notion,r,stackoverflow,vscode,windows&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,c,cpp,css,discord,figma,github,html,java,js,kali,linkedin,linux,notion,r,stackoverflow,vscode,windows&perline=15)](https://skillicons.dev)
 
 
 
