@@ -60,6 +60,14 @@
 
 
 
+ <h1 align="center">Trophies:</h1>
+  <!--<img width=800 src="https://github-profile-trophy.vercel.app/?username=harsharma30&theme=alduin"/>-->
+  <p align="center">
+  <img width="1500" height="100" src="https://github-profile-trophy.vercel.app/?username=harsharma30&theme=darkhub"/>
+    </p>
+  <!--code by harsharma30-->
+  <br><br>
+
 
 <!--  <a href="https://twitter.com/ritikhere307">
  <img src="https://img.shields.io/badge/-ritikhere307-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ritikhere307"/>
@@ -98,37 +106,4 @@
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-
-<p align = "center">
-
-<p>  <img width="800" height="220" src="https://streak-stats.demolab.com?user=kkeshavv&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
- 
-<!--   <img  src = "https://github-readme-stats.vercel.app/api?username=kkeshavv&show_icons=true&theme=radical&line_height=27"> -->
-<!--
-  <img src="https://github-readme-stats.vercel.app/api?username=kkeshavv&show_icons=true&theme=radical" alt="GitHub Stats&line_height=27" />
-
-<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kkeshavv&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical"> -->
-<!--
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkeshavv&layout=donut&theme=radical" alt="Most Used Languages" />
-
-</p>
-
-  -->
 <hr>
-<!-- <p align="center">If you like it, do fork 🍴 and star ⭐</p> -->
