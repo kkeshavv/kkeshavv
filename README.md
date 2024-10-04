@@ -99,8 +99,7 @@
 <p align="center">
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkeshavv&theme=codeSTACKr) 
-<br> <br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkeshavv&theme=codeSTACKr) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kkeshavv&theme=codeSTACKr)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kkeshavv&theme=codeSTACKr)
 
