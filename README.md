@@ -25,7 +25,7 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 <p align="center">
   <a href="mailto:keshav91900@gmail.com" target="blank">
-    <img align="center" src="https://github.com/kkeshavv/kkeshavv/blob/main/gmail.gif" alt="Gmail Logo" height="100" width="100" />
+    <img align="center" src="https://github.com/kkeshavv/kkeshavv/blob/main/assests/gmail.gif" alt="Gmail Logo" height="100" width="100" />
   </a>
   <a href="https://www.linkedin.com/in/keshav91900/" target="blank">
     <img align="center" src="https://github.com/kkeshavv/kkeshavv/blob/main/assests/Linkedin.gif" alt="LinkedIn Logo" height="100" width="100" />
