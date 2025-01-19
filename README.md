@@ -45,7 +45,9 @@
 <br>
 <div align="center">
 
- <img width="800" height="220" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kkeshavv&theme=highcontrast" alt="GitHub Streak" alt="GitHub Streak" />
+ <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=kkeshavv&theme=highcontrast" alt="GitHub Streak" />
+   </a>
   
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkeshavv&theme=codeSTACKr) <br>
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kkeshavv&theme=codeSTACKr)&nbsp;&nbsp;&nbsp;&nbsp;
