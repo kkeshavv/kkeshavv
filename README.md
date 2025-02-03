@@ -2,18 +2,13 @@
 <p align="center">
   <img src="https://github.com/kkeshavv/kkeshavv/blob/main/assests/banner.png" />
 
-
-
-
-<a href="https://github.com/Andrew6rant/Andrew6rant">
-
 </p> -->
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kkeshavv/kkeshavv/main/assests/dark_mode.svg">
     <img alt="Keshav's GitHub Profile README" src="https://raw.githubusercontent.com/kkeshavv/kkeshavv/main/assests/light_mode.svg">
 </picture>
-
+<!------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>
 
 
 
